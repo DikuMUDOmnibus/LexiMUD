@@ -1,0 +1,34 @@
+
+LEXIMUD
+
+All code unique to LexiMUD, and some not so unique is written by Chris 
+Jacobson.  Additional code not written by him is credited below.  
+
+The original CircleMUD is available for anonymous FTP at ftp.circlemud.org.
+All code unique to CircleMUD is protected under a copyright by the
+Trustees of the Johns Hopkins University.
+
+Type HELP CIRCLEMUD for more information.
+
+============================================================================
+                   CircleMUD game idea, concept, and coding:
+          Jeremy Elson                     [Ras] (jelson@cs.jhu.edu)
+          
+               DikuMUD (Gamma 0.0) game idea, concept, and design:
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+------------------------------------------------------------------------------
+Additional contributions from Michael Curran, Bill Wisner, Mads Haar, Stephan
+Dahl, Harvey Gilpin (Oasis OLC), Burkhard Knopf (AutoEQ),
+Brian Williams (Races and Attributes), Jvrgen Zigge Sigvardsson (Abbrevs),
+Doppleganger Software (Maze Code), Luis Carvalho (Event System), Daniel Muller
+
+Originally developed at:
+  DIKU - The Department of Computer Science at the University of Copenhagen.
+CircleMUD developed at:
+  John's Hopkins University's Department of Computer Science
+LexiMUD developed at:
+  Chris Jacobson's Home

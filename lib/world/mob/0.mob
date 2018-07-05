@@ -1,0 +1,44 @@
+#1
+Name: puff marine fractal
+Shrt: Puff
+Long:
+Puff the Fractal Marine is here, comtemplating how to kill you.
+~
+Desc:
+This marine never tries to kill anyone, she just thinks about how to do
+it. She also ponders her past life as a dragon. Odd huh?
+~
+Race: 4
+Levl: 100
+Hitr: 19
+Armr: 50
+HP  : 5d10+550
+Dmg : 30d127+3
+Pos : 8
+DPos: 8
+Sex : 2
+Act : bdnopqr
+Aff : dkpq
+Attk: 12
+DONE
+#10
+Name: clone
+Shrt: the clone
+Long:
+A boring old clone is standing here.
+~
+Desc:
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+Race: 0
+Levl: 1
+Hitr: 20
+Armr: 0
+HP  : 1d1+1
+Dmg : 1d1+1
+Pos : 8
+DPos: 8
+Sex : 0
+Act : bd
+DONE
+$

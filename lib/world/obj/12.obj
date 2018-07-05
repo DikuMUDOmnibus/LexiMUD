@@ -1,0 +1,511 @@
+#1200
+board screen terminal access~
+the Announcements screen~
+The Announcements screen is mounted to the wall.~
+undefined~
+30 0 0
+1 103 104 0 0 0 0 0
+0 0 0
+#1201
+Fountain, water fountain, lion~
+a large marble fountain sets at the center of this room~
+A large marble fountain of unworldly beauty.~
+As you walk around the fountain you note the fine craftmanship and many hours
+that went into its creation.  Four female statues, all of unsurpassing beauty
+are placed in a circular pattern.  From each urn carried by the women water
+flows and cascades into the water basin below.  You feel an inner peace as you
+gaze into the eyes of the statues perched atop this marvelous fountain.    
+~
+21 0 0
+500 500 0 0 0 0 0 0
+505 0 0
+E
+fountain, marble, waterfountain, statue~
+As you walk around the fountain you note the fine craftmanship and many hours
+that went into its creation.  Four female statues, all of unsurpassing beauty
+are placed in a circular pattern.  From each urn carried by the women water
+flows and cascades into the water basin below.  You feel an inner peace as you
+gaze into the eyes of the statues perched atop this marvelous fountain.    
+~
+T
+1201
+~
+#1203
+shelf book~
+a large book shelf~
+A large book shelf is here with lots of books in it.~
+Current Titles:
+- "Mob Progs Made Easy" A Mob Prog Tutorial.
+~
+14 0 0
+20000 0 0 0 0 0 0 0
+50000 0 0
+#1204
+tree cherry beautiful~
+a beautiful `rcherry`w tree`n~
+A beautiful `rcherry`w tree`n stands before you, cherry blossoms in full bloom!~
+~
+14 0 0
+100 1 -1 0 0 0 0 0
+0 0 0
+E
+tree cherry beautiful~
+A beautiful cherry stands here, blossoming with a myriad of deep red cherries,
+ripe for the taking.  Just open the tree up alittle.    
+~
+T
+1203
+~
+#1205
+cherry fruit food~
+a plump `rred `gc`rherry`n~
+a perfectly ripe plump red cherry~
+~
+19 k ao
+20 0 0 0 0 0 0 0
+0 0 0
+E
+cherry~
+Just gazing at this luscious little fruit makes your mouth water.  What are you
+waiting for?  Eat it!    
+~
+#1206
+blossom petals~
+white petals of a cherry blossom~
+Soft white fragrant petals flutter here.~
+~
+10 0 a
+0 0 0 0 0 0 0 0
+0 0 0
+E
+petals blossom~
+These soft white petals flutter gently in your hands.  You inhale their sweet scent.
+~
+T
+1202
+~
+#1207
+script testing object~
+a script testing obj~
+Imms feel free to test scripts on this obj, just remove em when your done.~
+~
+13 0 abcdfghijklmnop
+0 0 0 0 0 0 0 0
+0 0 0
+T
+6611
+~
+#1210
+board terminal screen access~
+the Terraformers message terminal~
+The Terraformers Division message terminal is built into the table.~
+undefined~
+30 0 0
+101 101 101 0 0 0 0 0
+0 0 0
+#1211
+board terminal~
+the Software Division access terminal~
+The Software Division message terminal is built into the table.~
+undefined~
+30 0 0
+1 100 100 0 0 0 0 0
+0 0 0
+#1212
+board terminal~
+the Company's primary message terminal~
+The Company's primary message terminal is built into the table.~
+undefined~
+30 0 0
+100 100 100 0 0 0 0 0
+0 0 0
+#1213
+terminal board usenet~
+a usenet terminal~
+A usenet terminal is here, connected to the Company's social newsgroup.~
+undefined~
+30 0 0
+1 2 101 0 0 0 0 0
+0 0 0
+#1214
+board terminal PR important~
+the PR board~
+An important looking board belonging to the PR department is here.~
+undefined~
+30 0 0
+101 101 104 0 0 0 0 0
+0 0 0
+#1220
+PowerCenter computer~
+the PowerCenter 132~
+The PowerCenter 132, the heart of Aliens vs. Predator, is sitting on a desk.~
+~
+24 0 0
+1222 0 0 0 0 0 0 0
+0 0 0
+E
+computer powercenter macintosh~
+   You are looking at a REAL modern computer.  This work of art has a powerful
+PowerPC 604 processor running at a blazing 132 MHz, a 512k Level 2 Cache, and
+48 MB of RAM.  The 2 GB hard drive provides enough room for all uses, and the
+ZIP drive provides perfect backup and external media storage.    
+~
+#1221
+monitor sony trinitron multiscan15sx screen~
+a Sony Trinitron MultiScan15sx monitor~
+A Sony Trinitron MultiScan15sx is sitting on top of a desk.~
+undefined~
+30 0 0
+104 104 105 0 0 0 0 0
+20 0 0
+#1222
+keycard card~
+a Security Level 34 Keycard~
+A keycard with the number '34' on it lies here.~
+~
+16 dl a
+0 0 0 0 0 0 0 0
+0 0 0
+E
+keycard card~
+   This security card gives the holder access level 34.    
+~
+#1223
+chair executive~
+an executive-style chair~
+FearItself's executive-style chair is here, waiting for him.~
+~
+29 0 0
+1 0 0 0 0 0 0 0
+0 0 0
+#1224
+chair office~
+an office chair~
+An office chair is here.~
+~
+29 0 0
+1 0 0 0 0 0 0 0
+0 0 0
+#1225
+leather chair~
+a black leather chair~
+A big black leather chair is here waiting for someone to sit on it.~
+~
+29 0 0
+1 0 0 0 0 0 0 0
+35 0 0
+E
+chair~
+a large black leather chair
+~
+B
+ q
+#1228
+chair~
+Jacen's `BExecutive Chair`n~
+Jacen's `BExecutive Chair`n~
+~
+29 ab 0
+1 0 0 0 0 0 0 0
+25 0 0
+#1229
+a wide oak desk~
+a wide black oak desk~
+There is a solid oak desk that is plated with glass~
+~
+30 a 0
+5 5 100 0 0 0 0 0
+150 0 0
+#1230
+Trash Bin~
+a large trash bin~
+You see a large trash bin sitting in the corner of the room.~
+~
+14 0 0
+32000 1 -1 0 0 0 0 0
+0 0 0
+E
+small white throne nothingness~
+Its seems do damn plain.
+~
+T
+20022
+~
+#1231
+Black Leath Couch~
+a leather couch~
+You see a very large black leather couch awaiting people to sit in it~
+~
+28 a 0
+5 0 0 0 0 0 0 0
+200 0 0
+#1232
+stuffed dog fido~
+a stuffed dog named "`rFido`n"~
+A stuffed dog named "`rFido`n" is here!~
+~
+10 k a
+0 0 0 0 0 0 0 0
+0 0 0
+#1233
+Gigantic silk bed~
+a enormous bed that looks quite comfy~
+You see a gigantic down filled bed with large silk covers, it also has rune markings at the sides of the bed~
+~
+28 a 0
+5 0 0 0 0 0 0 0
+300 0 0
+#1234
+a bedroom dresser~
+a large bedroom dresser~
+You see a large black polished solid oak dresser that stands tall in the room, it is also giving off soft tones like a wind chime.~
+~
+14 ab 0
+32000 3 -1 0 0 0 0 0
+0 0 0
+#1235
+Pepsi can~
+a can of pepsi~
+Drink that pepsi baby!~
+~
+21 0 ao
+199 199 0 0 0 0 0 0
+204 0 0
+#1236
+oak desk yegg large~
+a large oak desk~
+A large oak desk cluttered with papers, Yegg's computer, and stereo sits in the corner.~
+~
+12 0 0
+0 0 0 0 0 0 0 0
+0 0 0
+E
+yegg desk messy computer comp stereo radio clutter papers~
+Hmmm, could this really be the desk of such a genious?
+~
+#1237
+saddam dart board bill gates target bull's eye~
+a dartboard~
+A dart board with a picture of Saddam Husein and Bill Gates hangs from the wall.~
+~
+12 0 0
+0 0 0 0 0 0 0 0
+0 0 0
+E
+saddam husein bill gates dart board~
+Nice dart board. Evill people!!!! Kill them now!!!
+~
+#1238
+nice leather squish squichy chair yegg~
+a soft leather chair~
+A soft leather chair invites you to take a seat.~
+~
+29 0 0
+1 0 0 0 0 0 0 0
+10 0 0
+E
+nice soft leather chair~
+Take a seat.
+~
+#1239
+desk oak black~
+a large black oak desk plated with glass~
+A large black out desk plated with a layer of glass polished to a bright shine.~
+~
+14 0 0
+10000 15 5199 0 0 0 0 0
+500 0 0
+#1240
+Mina boss seat~
+a large black leather desk chair~
+A large leather desk chair sits here behind the desk.~
+~
+29 0 0
+1 0 0 0 0 0 0 0
+250 0 0
+#1241
+couch leather gray~
+a large grey leather couch~
+A large grey leather couch is here in the corner.~
+~
+29 a 0
+5 0 0 0 0 0 0 0
+0 0 0
+#1242
+large oak cabinet glass~
+a large glass plated oak cabinet~
+A large glass plated oak cabinet is tucked in the corner.~
+~
+14 a 0
+100 1 -1 0 0 0 0 0
+0 0 0
+#1250
+non color restring coupon ticket~
+a non-color restring coupon~
+A Golden Ticket is on the ground here.~
+This ticket is redeemable at anytime for <1> free restring only!  This ticket approx MP cost is 350+! 
+~
+15 kmo a
+0 0 0 0 0 0 0 0
+0 0 0
+#1252
+Board terminal pin push big gold~
+a human resources board~
+A human resources board is here.~
+A large board is here for people who wish to express an intrest in helping AVP out in its on going mission to create new worlds and better the MUD.
+~
+30 a 0
+0 0 0 0 0 0 0 0
+0 0 0
+#1255
+keycard~
+the keycard to Mordak's office~
+A strange looking keycard is lying here.~
+~
+16 0 a
+0 0 0 0 0 0 0 0
+0 0 0
+#1260
+long marble bench~
+a long marble bench, covered with satin~
+A long marble bench covered with purple satin is here.~
+~
+29 0 0
+2 0 0 0 0 0 0 0
+200 0 0
+#1261
+sparkling pool~
+a pool~
+A tiled pool of clear water stands in the center of the room.~
+~
+21 0 0
+1000 1000 0 0 0 0 0 0
+1005 0 0
+E
+pool~
+A soft blue pool.  As you gaze into it, you see your reflection shimmering
+in the surface.
+~
+#1262
+notepad small~
+a 'while you were out' notepad~
+A small notepad for messages to Hastur was left here.~
+~
+30 0 0
+104 1 104 0 0 0 0 0
+0 0 0
+#1290
+Clan Standards List~
+a list of clan standards~
+A list of clan standards is here.~
+Clans will have the following standards:
+
+-Meq will be limited to 3 pieces per clan which MUST be approved by an Admin.
+-HQ size of all clans will be 15 rooms
+-Each clan may have an extra 4 rooms for ships
+-All clan leaders must give their e-mail addresses to a imm for future reference
+-All clans MUST meet meq standards or the meq will be deleted
+-Clan HQ may be mobile however they can not enter a planets atmosphere
+-A HQ defence is allowed it shall be limited to 1 Defence to the HQ's external and 2 Defence for the HQ internal.<any script used here counts as an extra script>
+-The defences can not cause more then 500 DAM at a time and all weapons  must have a “reload time” that will be set by an admin. <not counted as extra script>
+-Clan HQ may have a entery script to keep out intruders <not counted as
+extra script>
+-Clans MUST have a script limiting clan eq to their own clan <not counted as an
+extra script AND MANDITORY>
+-Extra scripts are allowed up to 4 extra scripts but all must be preapproved before implemented in the game.
+-ALL Clan HQs must be raidable meaning that they must have a door that requires a key to get into.  The keys must be used by the clans to promote RP.
+-The admins have final word in clan activities, what they say goes.
+-Clan HQ builders must not have favortism to that clan,  ALL clans are
+equal none are better or worse
+-This list is subject to change at any time so build carefully and make sure you get things approved!
+~
+15 k a
+0 0 0 0 0 0 0 0
+0 0 0
+#1292
+lick iron sack immortal tracking~
+`ra large iron sack with a lock on it`n~
+`bA large iron sack with a huge lock on it is here`n~
+this is a mission quest sack from frodo DONT ALTER
+~
+14 km ab
+25 15 3703 0 0 0 0 0
+0 0 0
+#1294
+sword slayer~
+the Sword of Immortal Slaying~
+The Sword of Immortal Slaying lies here~
+~
+2 abmo an
+100 100 20 10 0 0 0 0
+0 0 -5
+B
+ f
+A
+2 100
+A
+4 100
+#1295
+amulet immortal~
+Amulet of the Gods~
+The Amulet of the Gods lies here~
+~
+11 abmo ac
+2000 0 0 0 0 0 0 0
+0 0 0
+B
+ bflmq
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+A
+1 100
+#1296
+shield digger~
+`nA `YGold `nand `KBlack`n shield of `WULTIMATE`n Power~
+`WDigger's shield of ULTIMATE power lies here radiating!~
+Digger slides a shield onto his arm, and begins to glow with an
+aura of extreme power and brutality!
+~
+11 abhijkmo ajo
+20 0 0 0 0 0 0 0
+10 0 0
+B
+ ln
+A
+1 10
+T
+1296
+~
+#1297
+God Planet~
+the Planet of the Gods~
+A giant planet is here hovering in the stars, its name is "The Planet of the Gods"~
+~
+22 0 0
+1299 0 0 0 0 0 0 0
+0 0 0
+#1298
+paper note~
+a piece of paper~
+A piece of paper is here.~
+~
+15 m ao
+0 0 0 0 0 0 0 0
+0 0 0
+#1299
+pen~
+a pen~
+A pen is here.~
+~
+17 0 ao
+0 0 0 0 0 0 0 0
+0 0 0
+$~

@@ -1,0 +1,325 @@
+act.comm.o: act.comm.c++ characters.h types.h conf.h memory.h \
+ sysdep.h mobprogs.h character.defs.h room.defs.h stl.llist.h rooms.h \
+ internal.defs.h objects.h index.h object.defs.h descriptors.h utils.h \
+ buffer.h comm.h interpreter.h find.h db.h boards.h clans.h \
+ staffcmds.h
+act.informative.o: act.informative.c++ characters.h types.h conf.h \
+ memory.h sysdep.h mobprogs.h character.defs.h room.defs.h stl.llist.h \
+ objects.h index.h internal.defs.h object.defs.h rooms.h descriptors.h \
+ utils.h buffer.h comm.h interpreter.h handler.h find.h db.h clans.h \
+ boards.h help.h extradesc.h
+act.item.o: act.item.c++ characters.h types.h conf.h memory.h \
+ sysdep.h mobprogs.h character.defs.h room.defs.h stl.llist.h rooms.h \
+ internal.defs.h objects.h index.h object.defs.h descriptors.h utils.h \
+ buffer.h comm.h interpreter.h handler.h find.h db.h spells.h event.h \
+ boards.h affects.h
+act.movement.o: act.movement.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h utils.h buffer.h comm.h interpreter.h handler.h find.h db.h \
+ spells.h house.h event.h
+act.offensive.o: act.offensive.c++ structs.h types.h conf.h \
+ memory.h sysdep.h internal.defs.h characters.h mobprogs.h \
+ character.defs.h room.defs.h stl.llist.h descriptors.h objects.h \
+ index.h object.defs.h rooms.h utils.h buffer.h comm.h interpreter.h \
+ handler.h find.h db.h spells.h help.h event.h
+act.other.o: act.other.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h utils.h buffer.h comm.h interpreter.h handler.h find.h db.h \
+ spells.h house.h affects.h
+act.social.o: act.social.c++ socials.h types.h conf.h memory.h \
+ sysdep.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h rooms.h internal.defs.h utils.h buffer.h comm.h \
+ interpreter.h find.h db.h
+act.wizard.o: act.wizard.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h opinion.h scripts.h utils.h buffer.h comm.h interpreter.h \
+ handler.h find.h db.h spells.h house.h affects.h event.h olc.h \
+ staffcmds.h extradesc.h track.h ident.h imc.h imc-config.h
+aedit.o: aedit.c++ characters.h types.h conf.h memory.h sysdep.h \
+ mobprogs.h character.defs.h room.defs.h stl.llist.h descriptors.h \
+ internal.defs.h interpreter.h comm.h utils.h db.h olc.h socials.h
+affects.o: affects.c++ characters.h types.h conf.h memory.h \
+ sysdep.h mobprogs.h character.defs.h room.defs.h stl.llist.h \
+ objects.h index.h internal.defs.h object.defs.h utils.h comm.h \
+ affects.h event.h
+array.o: array.c++ array.h types.h conf.h memory.h sysdep.h \
+ utils.h
+ban.o: ban.c++ characters.h types.h conf.h memory.h sysdep.h \
+ mobprogs.h character.defs.h room.defs.h stl.llist.h descriptors.h \
+ internal.defs.h ban.h utils.h buffer.h comm.h interpreter.h db.h
+boards.o: boards.c++ types.h conf.h memory.h sysdep.h objects.h \
+ index.h internal.defs.h mobprogs.h object.defs.h stl.llist.h \
+ descriptors.h character.defs.h characters.h room.defs.h rooms.h \
+ utils.h buffer.h comm.h db.h boards.h interpreter.h handler.h find.h \
+ files.h
+buffer.o: buffer.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h buffer.h interpreter.h comm.h
+cedit.o: cedit.c++ clans.h index.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h mobprogs.h stl.llist.h descriptors.h \
+ character.defs.h characters.h room.defs.h olc.h utils.h comm.h \
+ buffer.h rooms.h db.h
+characters.o: characters.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h utils.h scripts.h comm.h buffer.h files.h interpreter.h \
+ affects.h db.h clans.h opinion.h alias.h event.h handler.h spells.h
+clans.o: clans.c++ clans.h index.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h mobprogs.h stl.llist.h characters.h \
+ character.defs.h room.defs.h interpreter.h descriptors.h db.h utils.h \
+ olc.h files.h comm.h find.h rooms.h buffer.h
+comm.o: comm.c++ types.h conf.h memory.h sysdep.h structs.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ db.h utils.h buffer.h comm.h interpreter.h handler.h find.h house.h \
+ ban.h olc.h event.h ident.h imc.h imc-config.h imc-mercbase.h \
+ imc-mercdefs.h icec-mercbase.h icec.h ice.h
+config.o: config.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h
+constants.o: constants.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h
+db.o: db.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h buffer.h scripts.h db.h comm.h handler.h find.h spells.h \
+ mail.h interpreter.h house.h boards.h files.h clans.h ban.h help.h \
+ extradesc.h olc.h
+descriptors.o: descriptors.c++ descriptors.h types.h conf.h \
+ memory.h sysdep.h internal.defs.h character.defs.h stl.llist.h \
+ utils.h
+elevators.o: elevators.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h utils.h buffer.h comm.h interpreter.h db.h event.h
+event.o: event.c++ types.h conf.h memory.h sysdep.h event.h \
+ stl.llist.h queue.h utils.h
+events.o: events.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h find.h comm.h handler.h event.h spells.h
+fight.o: fight.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h buffer.h comm.h scripts.h handler.h find.h interpreter.h db.h \
+ spells.h event.h affects.h track.h
+files.o: files.c++ types.h conf.h memory.h sysdep.h utils.h \
+ buffer.h internal.defs.h character.defs.h files.h
+find.o: find.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h find.h handler.h db.h interpreter.h buffer.h
+graph.o: graph.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ scripts.h utils.h buffer.h comm.h interpreter.h handler.h find.h db.h \
+ spells.h
+handler.o: handler.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h scripts.h buffer.h comm.h db.h handler.h interpreter.h \
+ spells.h event.h find.h
+hash.o: hash.c++ types.h conf.h memory.h sysdep.h list.h hash.h \
+ utils.h
+hedit.o: hedit.c++ help.h types.h conf.h memory.h sysdep.h \
+ descriptors.h internal.defs.h character.defs.h stl.llist.h \
+ interpreter.h comm.h utils.h db.h olc.h characters.h mobprogs.h \
+ room.defs.h buffer.h handler.h
+help.o: help.c++ help.h types.h conf.h memory.h sysdep.h \
+ character.defs.h buffer.h utils.h handler.h
+house.o: house.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h scripts.h buffer.h comm.h handler.h find.h db.h interpreter.h \
+ house.h staffcmds.h
+ice.o: ice.c++ imc.h types.h conf.h memory.h sysdep.h stl.llist.h \
+ imc-config.h ice.h utils.h buffer.h
+icec-mercbase.o: icec-mercbase.c++ imc.h types.h conf.h memory.h \
+ sysdep.h stl.llist.h imc-config.h imc-mercbase.h imc-mercdefs.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ rooms.h descriptors.h interpreter.h utils.h comm.h db.h icec.h ice.h \
+ icec-mercbase.h buffer.h
+icec.o: icec.c++ imc.h types.h conf.h memory.h sysdep.h \
+ stl.llist.h imc-config.h icec.h ice.h utils.h buffer.h
+ident.o: ident.c++ types.h conf.h memory.h sysdep.h ident.h \
+ descriptors.h internal.defs.h character.defs.h stl.llist.h ban.h \
+ utils.h buffer.h
+imc-config.o: imc-config.c++ imc.h types.h conf.h memory.h \
+ sysdep.h stl.llist.h imc-config.h utils.h buffer.h
+imc-events.o: imc-events.c++ imc.h types.h conf.h memory.h \
+ sysdep.h stl.llist.h imc-config.h utils.h
+imc-interp.o: imc-interp.c++ imc.h types.h conf.h memory.h \
+ sysdep.h stl.llist.h imc-config.h utils.h
+imc-mail.o: imc-mail.c++ imc.h types.h conf.h memory.h sysdep.h \
+ stl.llist.h imc-config.h utils.h buffer.h
+imc-mercbase.o: imc-mercbase.c++ imc.h types.h conf.h memory.h \
+ sysdep.h stl.llist.h imc-config.h mail.h handler.h find.h buffer.h \
+ clans.h index.h internal.defs.h mobprogs.h staffcmds.h imc-mercdefs.h \
+ characters.h character.defs.h room.defs.h rooms.h descriptors.h \
+ interpreter.h utils.h comm.h db.h imc-mercbase.h
+imc-util.o: imc-util.c++ imc.h types.h conf.h memory.h sysdep.h \
+ stl.llist.h imc-config.h utils.h buffer.h
+imc-version.o: imc-version.c++ imc.h types.h conf.h memory.h \
+ sysdep.h stl.llist.h imc-config.h buffer.h
+imc.o: imc.c++ imc.h types.h conf.h memory.h sysdep.h stl.llist.h \
+ imc-config.h utils.h buffer.h
+index.o: index.c++ index.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h mobprogs.h
+interpreter.o: interpreter.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h alias.h utils.h comm.h interpreter.h db.h spells.h handler.h \
+ mail.h olc.h ban.h buffer.h staffcmds.h imc-mercbase.h imc-mercdefs.h \
+ icec-mercbase.h icec.h ice.h
+limits.o: limits.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h buffer.h spells.h comm.h scripts.h db.h handler.h find.h \
+ event.h
+list.o: list.c++ list.h types.h conf.h memory.h sysdep.h
+log.o: log.c++ descriptors.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h character.defs.h stl.llist.h characters.h mobprogs.h \
+ room.defs.h utils.h comm.h
+mail.o: mail.c++ characters.h types.h conf.h memory.h sysdep.h \
+ mobprogs.h character.defs.h room.defs.h stl.llist.h descriptors.h \
+ internal.defs.h objects.h index.h object.defs.h utils.h comm.h db.h \
+ interpreter.h mail.h buffer.h imc.h imc-config.h
+medit.o: medit.c++ characters.h types.h conf.h memory.h sysdep.h \
+ mobprogs.h character.defs.h room.defs.h stl.llist.h descriptors.h \
+ internal.defs.h comm.h spells.h utils.h scripts.h index.h db.h shop.h \
+ olc.h interpreter.h clans.h buffer.h opinion.h
+mobact.o: mobact.c++ characters.h types.h conf.h memory.h sysdep.h \
+ mobprogs.h character.defs.h room.defs.h stl.llist.h descriptors.h \
+ internal.defs.h event.h index.h objects.h object.defs.h opinion.h \
+ rooms.h comm.h handler.h interpreter.h utils.h track.h
+mobcmd.o: mobcmd.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h db.h handler.h find.h interpreter.h comm.h event.h spells.h \
+ buffer.h
+mobprog.o: mobprog.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h interpreter.h handler.h find.h db.h clans.h olc.h event.h \
+ buffer.h
+modify.o: modify.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h buffer.h interpreter.h scripts.h handler.h find.h db.h comm.h \
+ spells.h mail.h boards.h olc.h imc-mercbase.h imc-mercdefs.h
+newfight.o: newfight.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h utils.h comm.h handler.h interpreter.h spells.h event.h
+objects.o: objects.c++ types.h conf.h memory.h sysdep.h objects.h \
+ index.h internal.defs.h mobprogs.h object.defs.h stl.llist.h rooms.h \
+ room.defs.h characters.h character.defs.h utils.h scripts.h comm.h \
+ buffer.h files.h event.h affects.h db.h extradesc.h handler.h
+objsave.o: objsave.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ buffer.h comm.h scripts.h handler.h db.h interpreter.h utils.h \
+ files.h
+oedit.o: oedit.c++ characters.h types.h conf.h memory.h sysdep.h \
+ mobprogs.h character.defs.h room.defs.h stl.llist.h descriptors.h \
+ internal.defs.h objects.h index.h object.defs.h rooms.h comm.h \
+ spells.h utils.h scripts.h db.h boards.h shop.h olc.h interpreter.h \
+ buffer.h extradesc.h
+olc.o: olc.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ interpreter.h comm.h utils.h scripts.h db.h handler.h find.h olc.h \
+ clans.h shop.h help.h buffer.h socials.h staffcmds.h
+opinion.o: opinion.c++ opinion.h types.h conf.h memory.h sysdep.h \
+ characters.h mobprogs.h character.defs.h room.defs.h stl.llist.h \
+ descriptors.h internal.defs.h rooms.h index.h utils.h
+parser.o: parser.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h buffer.h
+queue.o: queue.c++ conf.h memory.h types.h sysdep.h queue.h
+races.o: races.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h spells.h
+random.o: random.c++
+redit.o: redit.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ comm.h utils.h scripts.h db.h boards.h olc.h buffer.h extradesc.h
+rooms.o: rooms.c++ rooms.h types.h conf.h memory.h sysdep.h \
+ room.defs.h internal.defs.h stl.llist.h characters.h mobprogs.h \
+ character.defs.h descriptors.h utils.h buffer.h db.h extradesc.h \
+ files.h
+scriptcmd.o: scriptcmd.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h scripts.h utils.h comm.h interpreter.h find.h handler.h \
+ buffer.h db.h olc.h spells.h event.h
+scriptedit.o: scriptedit.c++ scripts.h types.h conf.h memory.h \
+ sysdep.h index.h internal.defs.h mobprogs.h stl.llist.h characters.h \
+ character.defs.h room.defs.h descriptors.h buffer.h comm.h utils.h \
+ db.h olc.h event.h
+scriptengine.o: scriptengine.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h scripts.h utils.h comm.h interpreter.h find.h handler.h \
+ event.h olc.h clans.h buffer.h
+scripts.o: scripts.c++ scripts.h types.h conf.h memory.h sysdep.h \
+ index.h internal.defs.h mobprogs.h stl.llist.h buffer.h utils.h \
+ files.h event.h
+sedit.o: sedit.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ comm.h utils.h scripts.h db.h shop.h olc.h buffer.h
+shop.o: shop.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ buffer.h comm.h handler.h find.h db.h interpreter.h utils.h shop.h \
+ files.h
+spec_assign.o: spec_assign.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h buffer.h db.h interpreter.h utils.h
+spec_procs.o: spec_procs.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h utils.h buffer.h comm.h interpreter.h handler.h find.h db.h \
+ spells.h
+spell_parser.o: spell_parser.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h utils.h buffer.h interpreter.h spells.h handler.h find.h \
+ comm.h db.h
+sstring.o: sstring.c++ types.h conf.h memory.h sysdep.h utils.h \
+ files.h stl.llist.h
+track.o: track.c++ types.h conf.h memory.h sysdep.h track.h \
+ structs.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h interpreter.h handler.h utils.h list.h hash.h buffer.h comm.h
+triggers.o: triggers.c++ structs.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h characters.h mobprogs.h character.defs.h \
+ room.defs.h stl.llist.h descriptors.h objects.h index.h object.defs.h \
+ rooms.h scripts.h utils.h comm.h interpreter.h handler.h find.h db.h \
+ buffer.h
+utils.o: utils.c++ structs.h types.h conf.h memory.h sysdep.h \
+ internal.defs.h characters.h mobprogs.h character.defs.h room.defs.h \
+ stl.llist.h descriptors.h objects.h index.h object.defs.h rooms.h \
+ utils.h buffer.h comm.h db.h
+vehicles.o: vehicles.c++ characters.h types.h conf.h memory.h \
+ sysdep.h mobprogs.h character.defs.h room.defs.h stl.llist.h \
+ objects.h index.h internal.defs.h object.defs.h rooms.h utils.h \
+ buffer.h comm.h interpreter.h handler.h find.h event.h
+weather.o: weather.c++ descriptors.h types.h conf.h memory.h \
+ sysdep.h internal.defs.h character.defs.h stl.llist.h characters.h \
+ mobprogs.h room.defs.h rooms.h utils.h comm.h db.h
+zedit.o: zedit.c++ characters.h types.h conf.h memory.h sysdep.h \
+ mobprogs.h character.defs.h room.defs.h stl.llist.h descriptors.h \
+ internal.defs.h objects.h index.h object.defs.h rooms.h comm.h \
+ utils.h scripts.h db.h olc.h buffer.h

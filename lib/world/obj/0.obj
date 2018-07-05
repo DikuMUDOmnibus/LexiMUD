@@ -1,0 +1,28 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+
+
+report it immediately using the BUG command.~
+~
+13 0 0
+0 0 0 0 0 0 0 0
+0 0 0
+#99
+warning warn paper~
+a `RWARNING`n~
+There shouldnt be a long desc, it's !DROP =P~
+~
+12 kop a
+0 0 0 0 0 0 0 0
+0 0 0
+E
+warning warn~
+This is a standard issue warning issued to you for doing something you're not supposed to.
+~
+T
+99
+98
+~
+$~

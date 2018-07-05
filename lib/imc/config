@@ -1,0 +1,7 @@
+# Version <config_file_version>
+# LocalName <local_imc_name>
+# LocalPort <local_imc_port>
+# Connection Name:Host:Port:ClientPW:ServerPW:RcvStamp:NoForward:Flags
+Version 1
+LocalName LexiMUD
+LocalPort 4600

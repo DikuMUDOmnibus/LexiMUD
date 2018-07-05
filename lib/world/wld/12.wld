@@ -1,0 +1,831 @@
+#1200
+The Company Meeting Room~
+`wThis is the meeting room of the most powerful beings in the universe - the
+board members of the Company.  A circular table sits in the middle of the room,
+lit by a huge overhead light system.  There are many comfortable swivel chairs
+around the table.  The Company Board Room is to the north, and the Terraforming
+Division is to the south.  `g `wFor some reason you sense that you should not
+break the intense silence.  `n
+~
+12 cdep 0
+D0
+The Immortal Board Room can be seen to the north.
+~
+door~
+0 -1 1204
+D2
+The Immortal Builders Association boardroom.
+~
+door~
+0 0 1208
+D3
+~
+door~
+0 0 1299
+D4
+This room goes up into the Admin's Tower.
+~
+door~
+0 0 1240
+S
+#1201
+Welcome to The Player relations Dept.~
+`wYou step into the Player Relations hallway and notice that it is designed to
+please the players.  The color scheme is in relaxing shades of blue, and soft
+music is heard from an unknown source.  More hallway lies to the north, and
+there are offices on the left and right.`n
+~
+12 dep 0
+D0
+The PR hallway lies to the north.
+~
+door~
+0 0 1233
+D1
+~
+door~
+41 595 1260
+D2
+The Immortal Board Room can be seen to the south.
+~
+door~
+0 -1 1204
+S
+#1202
+The Ice Box Of The Gods~
+   The Ice Box is for little boys and girls that cannot play nice. Be good
+and maybe someone will come and get you.
+~
+12 deg 0
+S
+#1203
+The Weland-Yutani, Ellen Ripley Memorial Auditorium~
+`yThis very large, state of the art facility was donated the to the Aliens vs
+Predator Staff so that they might host conferences and seminars about A.  V.  P
+subjects.  The sloping floors all lead to the main stage at the front of the
+room.  A wooden podium sits upon a large hemispherical shaped stage.  And
+over-head, many lights hang from an erected scaffolding.  `n
+~
+12 dep 0
+D3
+The Immortal Board Room can be seen to the west.
+~
+door~
+0 -1 1204
+S
+#1204
+The Company Board Room~
+`wThe main hangout of the players, the Company board room is the place to be
+to exchange information about various aspects of this world.  To express your
+opinions to Mother...  Simply post on the board present in this room.  `g
+~
+12 dep 0
+D0
+The Gods' Inn can be seen just to the north.
+~
+door~
+0 -1 1201
+D1
+The Mortal Board Room can be seen just to the east.
+~
+door~
+0 -1 1203
+D2
+The Company Meeting Room is located to the south.
+~
+door~
+0 -1 1200
+D3
+The Gods' Post Office is just to the west.
+~
+door~
+0 -1 1205
+D4
+   There is a small stair in the corner leading up to the social room of the
+Gods.  A sign informs you that this is the location of the usenet terminal.  
+
+~
+door~
+0 -1 1206
+S
+#1205
+The E-mail database~
+`wThis newly built post office appears to have been built slightly more user
+friendly.  Should you have problems with your Mail, you should alert the Aliens
+vs.  Predator staff as fast as possable, so they can assist you with your
+problem.  `n
+To `F`RSend e-mail`f`n to someone, you would Type: `F`REMAIL (players name)`f`n
+~
+12 dep 0
+D1
+The Immortal Board Room is just to the east.
+~
+door~
+0 -1 1204
+S
+#1206
+The Social Gathering Room~
+This elegantly decorated room has one simple purpose.  To socialize with
+everyone else around in one central location.    
+~
+12 dp 0
+D5
+The Immortal Board Room is just down through the floor.  Funny how you
+didn't notice that exit before isn't it?
+~
+door~
+0 -1 1204
+S
+#1208
+Terraforming Division~
+`wYou are standing in the room of the Company's Terraforming Division.  Here is
+where all the terraformers meet to discuss their current work, past
+accomplishments, and future goals.  There is a large banner on the back wall,
+bearing the division's slogan, "We Create Worlds."`n
+~
+12 dep 0
+D0
+The Immortal Meeting Room
+~
+door~
+0 0 1200
+D1
+Looks like your average exit.~
+door~
+0 0 1217
+S
+#1209
+Software Division~
+   This is a moderately lit room, filled with holograms depicting various
+creations which came from the Software Division.  This is where most
+Terraformers come when they are in need of new or enhanced software.    
+To the west is the Company Meeting Room, and to the north is a dimly lit
+room.
+~
+12 dep 0
+D1
+Nothing.
+~
+door~
+41 0 1210
+D3
+The Company Meeting Room.
+~
+door~
+0 0 1240
+S
+#1210
+FearItself's Office~
+   You walk into a small, partly lit room.  Most of the light is concentrated
+on the computer systems in the southeast corner.  Sitting on top of a desk is a
+huge Sony monitor, and next to that, a PowerCenter 132, the heart of Aliens vs
+Predator MUD development.  CD-ROMs, ZIP disks, and empty Sprite bottles litter
+the area, and, along with magazines, nearly obscure an old Performa 200 and an
+old Personal LaserWriter.  Aliens vs Predator comics cover up a box filled with
+programming books.  Picture of Lexi are displayed all over, surrounded by
+various trinkets, including 5 original beanie baby cats, all gifts from Lexi.
+~
+12 cdgjpr 0
+D3
+~
+door~
+33 0 1209
+S
+#1211
+Densiva's Office.~
+As you enter the abode of Densiva, Master Builder, you notice something odd
+about the way the room is lit.  You look around at your suroundings and notice
+that the very walls seem to be pulsing with a wierd, unearthly glow.  Soon you
+start to notice your head feeling light, and your eyelids starting to feel
+heavyer.  The air is thick and hot, making it hard to breath.  Suddenly fire
+explodes from the very floor your stepping on, and your consumed in a ball of
+flame!!!!  Only to be plucked from the jaws of death, by None other then
+Densiva himself.    
+~
+12 dgjlm 0
+D3
+A heavy wooden door, with a picture of Hastur and Frodo, and half a dozen daggers sticking out of their smiling faces!
+~
+door hastur frodo west w~
+33 0 1219
+S
+#1212
+Warlord's Office~
+This room is somewhat small and quite cozy.  The walls are made out of thick
+marble bricks that have not been smoothed down.  A small window looks out over
+the planet of the gods.  Below the desk is an ancient stone desks on which sits
+Warlord's computer.  The floor is covered with a thick plush carpet.  And
+blankets are everywhere to help ward off the constant chill.    
+~
+12 cdenp 0
+D0
+To the north is a private room of Warlord's.
+~
+door~
+41 0 798
+D5
+Below is the second level in the Admin tower.
+~
+door trapdoor~
+169 0 1241
+E
+Tank Fish Water Animals~
+This tank is huge!  Viscious Betas roam the tank occasionally spurting after
+smaller and weaker fish.  Colorful plants and rock formations make the habitat
+look as real as possible.    
+~
+S
+#1214
+Mina's Bedroom~
+So this is Mina's bedroom.... You feel an instant sense of welcome wash over
+you as you enter. Jewel has been left playing on the stereo in corner. Other
+than that it looks to be pretty much like any other bedroom, a bed, a TV,
+the usual. Then noticing your presence Mina bounces over to you and invites
+you to sit down and have a chat.
+~
+12 dgjlr 0
+D2
+a door
+~
+door south~
+1 5199 1220
+D5
+Looks like your average exit.~
+door bedroom~
+9 5199 5100
+S
+#1216
+Cloud's Office!~
+  You have entered a large office with various pictures and other items on
+the wall that remind you of home. In the center of the room, sits a large
+oak desk with papers and maps scattered everywhere. Behind the desk you 
+notice a large poster of Pink Floyd. Don't get to comfortable, you probably
+won't be staying long......
+~
+12 defgr 0
+D1
+Looks like your average exit.~
+door~
+1 0 1232
+D2
+~
+door~
+129 0 1230
+S
+#1217
+The Builder's Hall Way~
+`wThis is the builders section of the Staff complex, here (hopefully) you can
+find the office your looking for.  You are walking down a marbled tiled hallway
+with sparkling gold trim, it adds a nice touch.`n
+~
+12 cdep 0
+D0
+~
+door~
+9 0 1250
+D1
+Looks like your average exit.~
+door~
+0 0 1218
+D2
+~
+door~
+9 0 1255
+D3
+Looks like your average exit.~
+door~
+0 0 1208
+S
+#1218
+A quiet Atrium~
+`cThis is the builders section of the staff complex, here (hopefully) you can
+find the office your looking for.  You are walking down a marble tiled hallway`w
+with sparkling gold trim, it adds a nice touch.  You have followed the marble
+tiled hallway into a room filled with plants from many planets.  This is a
+`gpeaceful place where the players sometimes wander with Staff to discuss
+various items.  In all other directions lead the builders offices where
+`yStaff are busy creating.`n 
+~
+12 cepq 0
+D0
+Nothing.
+To the north of you is a small library.
+~
+door~
+0 0 1222
+D1
+Looks like your average exit.~
+door~
+0 0 1225
+D3
+Looks like your average exit.~
+door~
+0 0 1217
+D4
+~
+door~
+0 0 1245
+D5
+You view down into a damn, dark lair...  This is the way to the Master
+Assassin, Silence
+~
+boulder d down~
+9 0 1244
+S
+#1219
+The Builder's Hall Way~
+`wThis is the builders section of the immortal complex, here (hopefully) you can
+find the office your looking for.  You are walking down a marbled tiled hallway
+with sparkling gold trim, it adds a nice touch.`n
+~
+12 cdenp 0
+D1
+A heavy wooden door, with a silver plaqe, its marked "Densiva's Office."
+~
+east door silver den e~
+33 0 1211
+D2
+the door to "Myriad's Office" stands befor thee, open the door to office of the "Head of AvP's Quality Control Dept." with caution.
+~
+door south s~
+137 0 -1
+D3
+Looks like your average exit.~
+door~
+0 0 1230
+S
+#1220
+Mina's office.~
+This office is in a complete state of disarray as if a mini-tornado tore
+throught the area. Papers, some crumbled, some ripped, others just tossed
+about litter the whole area here. They are marked with crazy ideas for new
+games and other sorts of wacky and useless things. The one place you would
+expect the papers to be, Mina's desk, however is totally bare save for a
+gold nameplate reading "Mina <Admin>" which is polished to a bright
+shine. The only other piece of furniture in the room is a chair set facing
+the desk obviously for whoever might happen to stop by for an interview or
+anything else along those lines.
+~
+12 denp 0
+D0
+a large wooden door, with a picture of Densiva tacked to it, and some darts poking out of the picture.
+~
+door~
+9 5199 1214
+D3
+~
+door west~
+9 5199 1241
+S
+#1222
+The Staff Library~
+You are in a giant library filled with giant shelves of books. A sign on the
+wall reads, "Staff Library - SILENCE OR DIE!" Unfortunately, There are no
+comic books here, only books related to your job as Staff.
+~
+12 deknp 0
+D2
+Looks like your average exit.~
+door~
+0 0 1218
+S
+#1223
+The PR hallway~
+`wYou enter into the `BPlayer Relations`w hallway, where the PR staff of AvP reside.
+The floor is a thin `bcarpet that feels`w comfortable on your feet.  The hallway is
+painted in `Bmellow shades of blue,`w obviously designed to give a relaxed feeling.`n
+~
+12 cdenp 0
+D0
+Hastur's Office.
+~
+door north~
+425 0 9409
+D1
+Tuxan's office.
+~
+door east~
+9 0 3587
+D2
+Looks like your average exit.~
+door~
+0 0 1233
+S
+#1225
+The Builder's Hall Way~
+`wThis is the builders section of the immortal complex, here (hopefully) you can
+find the office your looking for.  You are walking down a marbled tiled hallway
+with sparkling gold trim, it adds a nice touch.`n
+~
+12 dpq 0
+D1
+Looks like your average exit.~
+0~
+0 0 1230
+D3
+Looks like your average exit.~
+door~
+0 0 1218
+S
+#1226
+Frodo's Lounge~
+   This room has a very pleasent aura about it as velvet streamers hang from
+the onyx ceiling.  As you walk closer to the center of the room you feel a
+pulse of power comming from a strange ball suspended in the air.  Looking down
+at the gleeming onyx floor you can see a reflection of three small glowing orbs
+that provide the light to this room.  The orbs glow with the power of the sun
+as they pulse with untold power.  To the west you see a window that supplies a
+breath taking view of the great ocean.  To the east you see a window that peers
+into the twilight stars.  As you stay in this room you feel the swirl of raw
+cosmic power encircle you as your mind fills with images of the furture and the
+past.    
+~
+12 degjlp 0
+D0
+~
+door~
+0 0 1242
+D2
+This is a black mahogony door leading into The Admin's Tower.
+~
+door Mahogony south s~
+41 1866 1241
+D4
+this is a wide hatch leading into Frodo's Bed Chamber
+~
+hatch door s south~
+33 0 1231
+S
+#1230
+The Builder's Hall Way~
+`wThis is the builders section of the immortal complex, here (hopefully) you can
+find the office your looking for.  You are walking down a marbled tiled hallway
+with sparkling gold trim, it adds a nice touch.`n
+~
+12 dnp 0
+D1
+Looks like your average exit.~
+door~
+0 0 1219
+D2
+Nothing.
+~
+door south~
+1 0 -1
+D3
+Looks like your average exit.~
+door~
+0 0 1225
+D5
+~
+door~
+129 0 1216
+S
+#1231
+Frodo's Bed Chamber~
+   This room does not seem to have a roof as you can see the stars upabove in
+the black night sky.  From time to time you see shooting stars streak across
+the sky as the air seems to engulf your body.  The floor is made of midnight
+black solid onyx and seems to obsorb all light.  In the room stands a gigantic
+down filled bed with large silk covers.  To the north you can see thru a window
+that peers into thousands of different planets.  This is a truly breathtaking
+and relaxing room.    
+~
+12 defjlmp 0
+D5
+this is a wide hatch that leads down into Frodo's Lounge
+~
+hatch door d down~
+33 0 1226
+S
+#1232
+Cloud's Study~
+ This is a place where Cloud comes to reflect on issues reguarding the MUD.
+Along the walls are shelves full of books and other periodicals. In the center
+of the room lies a table with several magazines covering its surface. In one
+corner of the study, Spooky's cage lies empty. Wonder where he is?
+~
+12 de 0
+D3
+Looks like your average exit.~
+door~
+0 0 1216
+S
+#1233
+PR Hallway~
+`wYou step into the Player Relations hallway and notice that it is designed to
+please the players.  The color scheme is in relaxing shades of blue, and soft
+music is heard from an unknown source.  More hallway lies to the north, and
+there are offices on the left and right.`n
+~
+12 enp 0
+D0
+The end of the PR hallway
+~
+door~
+0 0 1223
+D2
+Looks like your average exit.~
+door~
+0 0 1201
+D4
+~
+door~
+9 5390 1239
+S
+#1235
+Home of the Raging Demon~
+When you enter the room, you feel like you've been here before.
+You notice large bound and faded books to your left.
+To your right, you see an outline of a person with a mark
+across a certain point in the chest.  You've heard of this place, but always
+thought it was a pure legend.  You must have entered the Home
+of the Raging Demon.  The only man to ever have perfected the
+Shun-Goku-Satsu and lived to brag about it.
+You decide that it is a good day to die, but immediately
+wipe that thought out of your head, and attempt to find a way
+out before the Demon Himself returns from whereever he may be....
+~
+12 fgj 0
+E
+trash can garbage~
+You take a closer look at the book sitting in the
+garbage can, and you are able to make out the cover.
+You take a look at the title, and read it aloud,
+'The Tao of Jeet Kune Do'.  You wonder to yourself,
+what kind of a madman would throw away a book that
+speaks of a form of martial arts that was created by
+one man?  You begin to shiver at the thought of someone
+this crazy.
+~
+E
+pleasing inner self~
+You take a closer look at the book labeled
+'Pleasing your Inner Self' and open the cover.
+
+Upon reading a few paragraphs, you see a line written
+in bold type, 'You've got to stroke it, stroke it!'
+~
+E
+art shotokan~
+You take a closer look at the book labeled
+'The Art Of The Shotokan' but can't seem to understand
+any of the foreign looking writing that is within
+the covers.
+Don't you wish you could read Japanese?
+~
+E
+right~
+You take a step to your right, and look a little
+closer and notice that the mark you saw previously
+looks suspiciously like writing.  Upon taking
+another glance, it reads, 'Death comes to all.'
+You notice something written in even smaller print,
+'Even sooner than one thinks...'
+~
+E
+left~
+You take a step to your left, and look a little
+closer and notice a few books that are legible.
+One is labeled 'The Art Of The Shotokan'.
+Another is labeled 'Pleasing your Inner Self'.
+You notice a book sitting in trash can nearby.
+You wonder what that could say, then decide to return
+to the center of the room and think of what may happen
+next...
+~
+S
+#1237
+RigorMortis's Romper Room~
+You are in an unfinished room.
+Still in Beta
+~
+12 egkn 0
+S
+#1239
+Rasp's room.~
+You are in Rasp's room, pretty nice room, large, peaceful, and spooky. Hissing sounds come from the dark corners, a feeling of fear sets in, should you stay in here?
+~
+12 dq 0
+D5
+~
+door~
+9 5390 1233
+S
+#1240
+The Admin's Tower~
+   This is a long stairway that goes up into the tower of the admin's.  This
+room resonates with raw power that seems to engulf everything in it.  There are
+rooms that are big and small large and wide.  However the power that rings
+throughout this tower is stunning and the sounds of chimes ring in your ear.  
+~
+12 dep 0
+D1
+~
+door~
+0 0 1209
+D2
+~
+door~
+9 0 21000
+D4
+~
+door~
+0 0 1241
+D5
+This exit goes back down into The Company Meeting Room.
+~
+door~
+0 0 1200
+S
+#1241
+The Admin's Tower Level 2~
+   This is the second level of the Admin's Tower in which gives a breathtaking
+view of the universe.  There are numerous windows here as the tower is
+illuminated with light from distant suns.  The ground beneath seems to be
+transparent as you can almost make out the carpet downstairs.  The patterns on
+the walls are stunning as they seem to only make sense to a immortal.    
+~
+12 denp 0
+D0
+This door leads into Frodo's Lounge.
+~
+door black north n~
+41 1866 1226
+D1
+~
+door~
+9 5199 1220
+D4
+A small set of winding stone stairs leads to a room above.
+~
+door ~
+41 0 1212
+D5
+~
+door~
+0 0 1240
+S
+#1242
+`RCharlie's `cBackyard`n~
+   This is charlie's backyard in which he can play and frolic around with his
+various doggie toys.  The grass is greatly green as tiny blades of grass pop
+under your feet.  Some of charlie's remnants are here as you see a bone here
+and there and pieces of different races in his doggy dish.  Clearly this dog is
+one mean bitch's man.  The wind blows quietly through the backyard as an
+enchanted lake can be seen in the distance.    
+~
+12 0 0
+D2
+~
+door~
+0 0 1226
+S
+#1243
+Rhokui's Office~
+A very blank room, cept for the swords hanging on the walls, and the nice
+little heavy bag in the corner, there is a fearsome statue of a formidable
+alien named Kanga you think, dont fuck with it, hopefully Rhokui doesnt mind
+you being here, so if your not allowed here, GET OUT!    
+~
+12 d 0
+D4
+~
+secret hole~
+17 2180 2145
+S
+#1244
+Lair of Silence~
+You stand in the center of a dark, damp lair. This cave belongs to
+that of Silence. He is an outcast from earth, who has since mastered
+the arts of thievery and assassination. He cares little for human life
+and mostly lies around in his lair. There is nothing but smooth
+black obsidian rock here. As you look around, you see nothing befitting
+his stature in the world, just humble surroundings. The only thing
+that catches your eye is the large display case aginst the northern
+wall.
+~
+12 0 0
+D4
+You see a safer place up there than this lair, you better go that way.
+~
+door~
+0 0 1218
+E
+case~
+A large display case rests on the northern wall, it contains many
+skulls. As you look even closer, the skulls all appear diffrent in
+orign. Alien, Human and Predator alike, all races are represented here.
+In the center of the skulls is a long dagger etched with acid. This
+dagger is said to be the weapon of choice for the assassin Silence.
+Looking at the skulls and dagger make you weary of being here...
+
+
+You begin to tremble with fear....
+~
+S
+#1245
+Digger's handicapped parking space~
+   You stand in the middle of a parking lot, on one parking space in said
+parking lot.  But is this an ordinary space, oh no sir-e-bob...  This is
+Digger's honarary, handicapped parking place.  You see the large `Cblue `nand
+`Wwhite`n symbol on the ground, as well as the sign that is exactly 42 inches
+above the ground, just as city ordance says.  This space looks very wide and
+comfortable for an old mans space capsule to easily pull into the planet of the
+gods.    
+~
+12 0 0
+D5
+~
+door~
+0 0 1218
+S
+#1250
+Dergue's Place~
+   Posters of famous metal bands line the walls, and a plush, comfy chair is
+off to a side of the room.  The room is littered with pizza crusts and empty
+soda cans, obviously this person is a real slob.  The walls are covered with
+burn marks, possibly from a failed experiment or two.  A trophy case lies
+opposite a window with a picturesque view of the Admin Tower, and you can see
+karate tournment trophies, next to a black belt folded carefully.  Dergue
+stands here with a warm smile on his face, reminding you that he's always ready
+for ideas on how to improve the mud.    
+~
+12 dt 0
+D1
+~
+door~
+57 0 2146
+D2
+~
+door~
+9 0 1217
+S
+#1255
+Mordak's office~
+You find yourself standing in a large chamber.  Some strange green liquid runs
+down the strange looking walls.  The walls seem to be made out of some rare
+metal, but you are unable to determine what kind of metal it is.  On the floor
+lies a red velvet carpet.  Everything seems to have been put in exact order.  
+You can't see any form of dirt in the room, not even a single piece of dust.  
+You begin to think this man is a real pedant.  The same strange metal covers
+the ceiling as well.  It makes the ceiling shimmer with a poor yellow light.  
+
+~
+12 d 0
+D0
+~
+door~
+9 1255 1217
+S
+#1260
+Pain's Private Chambers~
+You're in MY world now.
+~
+12 dej 0
+D3
+~
+door~
+41 595 1201
+S
+#1297
+DOW meq sell back room~
+Sell back all DOW meq here.
+~
+12 e 0
+D4
+~
+door~
+0 0 1299
+S
+#1298
+2cmaw Navy MEQ sell back room~
+Sell back all 2cmaw navy MEQ here.
+~
+12 ce 0
+D4
+~
+door~
+0 0 1299
+D5
+~
+door~
+0 0 1297
+S
+#1299
+The Planet of the Gods Airlock~
+This room is the entryway into the Planet of the Gods.  Posted all over the
+wall in lots of different colors are signs that say things like: NO SHOUTING!
+or QUITE PLEASE!    
+~
+12 eq 0
+D1
+~
+door~
+0 0 1200
+D4
+~
+door~
+0 0 15000
+S
+$~

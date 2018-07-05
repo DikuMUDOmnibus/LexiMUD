@@ -1,0 +1,243 @@
+#1200
+Name: Jake cat feline kitty kitten
+Shrt: Jake
+Long:
+Jake, FearItself's cat, is here.
+~
+Desc:
+   Jake is FearItself's feline companion of over 8 years.  He stalks through
+Company HQ, catching any mice that the robotic sentries might miss.
+~
+Race: 4
+Levl: 80
+Hitr: 50
+Armr: 999
+HP  : 0d0+30000
+Dmg : 30d127+50
+Pos : 8
+DPos: 8
+Sex : 1
+Act : dejlmnop
+Aff : cdilmn
+Attk: 8
+Str : 100
+Agi : 100
+Int : 100
+Per : 100
+Con : 100
+Trig:
+1211
+1232
+~
+DONE
+#1201
+Name: mailman postmaster man master
+Shrt: a `bmail`wman
+Long:
+A `bmail`nman`y stands here, waiting to deliver email.
+~
+Desc:
+Through rain and meteor showers and alien acidblood and.... well, you get the idea.
+Here stands a mailman of the Company.
+~
+Race: 0
+Levl: 99
+Hitr: 50
+Armr: 999
+HP  : 30d250+30000
+Dmg : 30d127+50
+Pos : 8
+DPos: 8
+Sex : 1
+Act : bdlmnop
+Aff : cdi
+Str : 80
+Agi : 80
+Per : 80
+Con : 80
+DONE
+#1202
+Name: godzilla eater import lizard monster
+Shrt: `gGodzilla`n
+Long:
+Godzilla, eater of Small import cars 
+~
+Desc:
+It looks unfinished.
+~
+Race: 4
+Levl: 99
+Hitr: 50
+Armr: 200
+HP  : 1d1+30000
+Dmg : 30d127+50
+Pos : 8
+DPos: 8
+Sex : 0
+Act : cdfilmnop
+Aff : cdefimpqr
+Attk: 9
+Str : 80
+Agi : 80
+Int : 20
+Per : 80
+Con : 80
+DONE
+#1203
+Name: Tiggywinkle hedgehog hog
+Shrt: Tiggywinkle, Lexi's hedgehog
+Long:
+A hedgehog named Tiggywinkle is curled up in a spikey ball.
+~
+Desc:
+A hedgehog is wandering about the room.  A nametag says "Tiggywinkle".
+You realize this is the fabled Hedgehog friend of Lexi!
+~
+Race: 4
+Levl: 100
+Hitr: 50
+Armr: 999
+HP  : 0d0+30000
+Dmg : 30d127+50
+Pos : 8
+DPos: 5
+Sex : 2
+Act : cdejklmnop
+Aff : cdfilm
+Attk: 4
+Str : 100
+Agi : 100
+Int : 100
+Per : 100
+Con : 100
+DONE
+#1210
+Name: Jake cat feline kitty kitten
+Shrt: Jake
+Long:
+Jake, FearItself's cat, is here.
+~
+Desc:
+   Jake is FearItself's feline companion of over 8 years.  He stalks through
+Company HQ, catching any mice that the robotic sentries might miss.
+~
+Race: 4
+Levl: 100
+Hitr: 500
+Armr: 999
+HP  : 0d0+30000
+Dmg : 100d30+50
+Pos : 8
+DPos: 8
+Sex : 1
+Act : dejlmnop
+Aff : cdefhilmnoq
+Attk: 8
+Str : 232
+Agi : 232
+Int : 232
+Per : 232
+Con : 232
+DONE
+#1224
+Name: angel
+Shrt: a loving angel
+Long:
+An angel of peace is here, floating above a calm lake.
+~
+Desc:
+Nothing.
+~
+Race: 4
+Levl: 99
+Hitr: 50
+Armr: 999
+HP  : 30d100+30000
+Dmg : 30d100+50
+Pos : 8
+DPos: 8
+Sex : 0
+Act : bde
+Aff : cd
+Attk: 12
+Str : 100
+Agi : 100
+Int : 100
+Per : 100
+Con : 100
+DONE
+#1228
+Name: Doodle Doodie cat
+Shrt: Doodle Bug
+Long:
+Doodle Bug
+~
+Desc:
+   This is Jacen's cat Doodle Bug.  She is very pretty, small, and fairly thin.
+She likes to sleep in Jacen's office, eat flies, and chase mice.  She is also
+very energetic, and can rip many things to shreds.    
+~
+Race: 4
+Levl: 100
+Hitr: 50
+Armr: 999
+HP  : 30d1000+10000
+Dmg : 30d127+50
+Pos : 5
+DPos: 6
+Sex : 2
+Act : bdegjk
+Aff : cdfimp
+Attk: 8
+Str : 100
+Agi : 100
+Int : 100
+Per : 100
+Con : 100
+DONE
+#1230
+Name: Charlie the dog
+Shrt: Charlie
+Long:
+You see Frodo's dog Charlie sitting here.
+~
+Desc:
+It looks very intelligent and strong, better not mess with it This fine dog
+belongs to `bFrodo.  `rHe is very strong and his eyes seem to glow with a hint
+of intelligence.  If you arent `bFrodo`n then you shouldnt order this dog
+around.    
+~
+Race: 4
+Levl: 100
+Hitr: 540
+Armr: 9999
+HP  : 30d150+30000
+Dmg : 100d340+50
+Pos : 8
+DPos: 6
+Sex : 1
+Act : degjlmnop
+Aff : cdefhilmqr
+Attk: 9
+Str : 200
+Agi : 200
+Int : 200
+Per : 200
+Con : 200
+Trig:
+1230
+1231
+1235
+1252
+1253
+1232
+1233
+1234
+1236
+1237
+1239
+1240
+1241
+~
+DONE
+$

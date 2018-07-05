@@ -1,0 +1,9 @@
+Insure++.interface_ignore log
+Insure++.checking_uninit off
+Insure++.leak_search off
+Insure++.report_overwrite off
+Insure++.report_limit 5
+Insure++.coverage_map_data off
+
+Insure++.suppress_warning 5.17-1
+Insure++.suppress_warning 13-2

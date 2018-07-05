@@ -1,0 +1,53 @@
+LexiMUD Alpha
+-------------
+
+Welcome to the LexiMUD Alpha release!  This is the first and only Public 
+Release of LexiMUD Alpha.  The next release will be the full SpaceMaster/
+RoleMaster oriented LexiMUD.
+NOTE: LexiMUD Alpha will NOT AT ALL be compatible with the full release of
+LexiMUD!  The database formats are completely different, the stats and other
+things also, and there WILL BE NO UPGRADE PATH.
+
+First off, this is an Alpha release of course, and there are some things you
+should be aware of.  By using or attempting to use LexiMUD you agree to the
+following conditions:
+
+1. You will not ask me (FearItself) for support.  This is an unsupported
+   release.  Any attempt to get support will result in my laughing at you
+   and taunting you for the next year and a half.  I'm not a meanie, just that
+   I work as a professional programmer, and LexiMUD is my hobby, so
+   supporting an outdated version is not something I want to devote time to.
+   You could always contract me to support it :-)  My rates are reasonable
+   and flexible.
+2. This version will only compile on MacOS and some flavors of UNIX.
+   No Windows support.
+3. No areas except interstellar space, god complex, and limbo are included
+   Do not ask for the AvP areas.  They are not my creations and will not
+   be distributed.
+4. The text block:
+ "Based on LexiMUD,  a creation of Chris Jacobson and the AvP Team,  with code
+  created by, or based on code by, George Greer, Eric Green, Stefan Wasilewski
+  David Berry, Jushua Mentzer,  Harvey Gilpin, Brian Williams,  Daniel Muller.
+  A derivative of CircleMUD 3.0, by Jeremy Elson;  and DikuMUD, by Hans Henrik
+  Staerfeldt, Katja Nyboe,  Tom Madsen, Michael Seifert,  and Sebastian Hammer"
+   must remain on the login screen (or at least all names and references to
+   codebases).  Failure to do so is a violation of multiple license agreements
+   and could result in your MUD being blacklisted or worse.
+5. Don't fall for anyone claiming to be me unless the domain name of login is
+   fear.athenet.net or I am on AvP and able to substantiate the claim.
+
+There are parts of code that are not my creation and belong to other people
+However, copyright notices may or may not be missing, and comments may or may
+not have been removed.  My apologies to anyone whom I have accidentally
+trashed your comments/copyright notices.
+
+Bug fixes are semi-welcome, but mind you that my current copy that I actually
+work on is VERY much different than this current version.
+
+Includes IMC2, but you need to get on the IMC network for it to be any use.
+Contact me and I will help you get on by linking you through AvPDev.
+
+- Chris Jacobson
+  FearItself at avp.dhs.org:4444
+  fear@technologist.com
+
